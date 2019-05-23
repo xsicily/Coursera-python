@@ -14,3 +14,5 @@ This course is from Coursera including four models:
 Each model was designed to cover 4 weeks’ learning topics including videos, exercises and projects. It is a good practise for python beginners.
 
 For each course, only projects are listed in this repository.
+
+# Language: python 3.7
