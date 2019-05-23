@@ -1,6 +1,6 @@
 # Pythonbasic-Introduction to Scripting in Python Specialization
 
-This course is from Coursera including four models:
+This course is from Coursera (https://www.coursera.org/specializations/introduction-scripting-in-python) including four models:
 
 • Course 1-Python Programming Essentials 
 
