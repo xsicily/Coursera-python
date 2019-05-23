@@ -1,5 +1,4 @@
-# Pythonbasic
-Introduction to Scripting in Python Specialization
+# Pythonbasic-Introduction to Scripting in Python Specialization
 
 This course is from Coursera including four models:
 
