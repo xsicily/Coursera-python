@@ -1,6 +1,6 @@
-# miniprojects_python
+# Projects
 
-Miniprojects_python shows several of mini-projects which are programmed by python language. All the tasks of the projects are originally from Coursera Course-Introduction to Scripting in Python Specialization.
+Those projects show several of mini-projects which are programmed by python language. All the tasks of the projects are originally from Coursera Course-Python programming_essentials.
 
 Project 1: work with dates. 
 
