@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce5fde64-41a5-4aa0-9fe0-b05c8851796a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4coursera_datavisualization/w3/isp_unify_template.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="207" />
+    <option name="width" value="3789" />
+    <option name="height" value="1980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="1coursera_pythonprogramming_essentials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="1coursera_pythonprogramming_essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="datesandfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="2coursera_datarepresentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="3coursera_dataanalysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="4coursera_datavisualization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="4coursera_datavisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="w3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="4coursera_datavisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="w4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce5fde64-41a5-4aa0-9fe0-b05c8851796a" name="Default Changelist" comment="" />
+      <created>1558649055552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558649055552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1657" height="972" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495379" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1coursera_pythonprogramming_essentials/datesandfiles/datemodel_instructions" />
+    <entry file="file://$PROJECT_DIR$/1coursera_pythonprogramming_essentials/datesandfiles/finalproject_jupyter.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../miniprojects_python/rock-paper-scissors/proj04.py" />
+    <entry file="file://$PROJECT_DIR$/../miniprojects_python/rock-paper-scissors/rock-paper-scissors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w1/dict_errors.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w2/practise_exercise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w2/practise_exercise_9.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w1/practise_exercise_dict.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w3/project_csv.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w3/project_practise_example.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w3/project_practise_solutions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w3/project_practise_template.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w3/isp_csvfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w3/isp_csvfiles_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w4/baseball_data_analysis_info.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w4/Batting_2016.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w4/isp_baseball_submit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="300" column="7" lean-forward="true" selection-start-line="300" selection-start-column="7" selection-end-line="300" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3coursera_dataanalysis/w4/isp_baseball_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="325" column="5" lean-forward="true" selection-start-line="325" selection-start-column="5" selection-end-line="325" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4coursera_datavisualization/w1/project_drawmap.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4coursera_datavisualization/w3/isp_unify_template.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
